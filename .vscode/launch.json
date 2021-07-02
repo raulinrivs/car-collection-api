@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CarCollectionApiApplication<car-collection-api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.edu.usj.ads.pw.carcollectionapi.CarCollectionApiApplication",
+            "projectName": "car-collection-api",
+            "args": ""
+        }
+    ]
+}
